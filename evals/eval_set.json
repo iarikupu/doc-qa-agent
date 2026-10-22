@@ -1,0 +1,16 @@
+[
+  {"question": "How many days per week can employees work remotely?", "expected_source": "remote_work.md", "expected_keyword": "three days"},
+  {"question": "What are the core hours for remote employees?", "expected_source": "remote_work.md", "expected_keyword": "10:00"},
+  {"question": "How much is the home office stipend?", "expected_source": "remote_work.md", "expected_keyword": "500"},
+  {"question": "Within how many days must expense reports be submitted?", "expected_source": "expenses.md", "expected_keyword": "30 days"},
+  {"question": "What is the daily meal reimbursement limit during travel?", "expected_source": "expenses.md", "expected_keyword": "60"},
+  {"question": "Above what amount are receipts required?", "expected_source": "expenses.md", "expected_keyword": "25"},
+  {"question": "How long must passwords be?", "expected_source": "security.md", "expected_keyword": "14 characters"},
+  {"question": "How quickly must a lost laptop be reported?", "expected_source": "security.md", "expected_keyword": "one hour"},
+  {"question": "How long does production access last?", "expected_source": "security.md", "expected_keyword": "eight hours"},
+  {"question": "What does a new engineer do in the first week?", "expected_source": "onboarding.md", "expected_keyword": "development environment"},
+  {"question": "How many approvals does a code review need?", "expected_source": "onboarding.md", "expected_keyword": "one approval"},
+  {"question": "What is the capital of Australia?", "expected_source": null, "expected_keyword": null},
+  {"question": "Who won the football world cup in 2010?", "expected_source": null, "expected_keyword": null},
+  {"question": "Recommend a good pasta recipe", "expected_source": null, "expected_keyword": null}
+]
